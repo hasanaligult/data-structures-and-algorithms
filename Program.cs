@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 
 
-namespace KabarcıkSıralamaAlgoritması
+namespace Program
 {
     class Program
     {
