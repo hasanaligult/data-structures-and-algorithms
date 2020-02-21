@@ -1,1 +1,1 @@
-siralama algoritmalari 
+Sorting Algorithms
